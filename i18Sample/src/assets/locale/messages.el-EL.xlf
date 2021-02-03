@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="ng2.template" datatype="plaintext" source-language="en" target-language="el-EL">
+    <body>
+      <trans-unit id="accountdetailsave">
+        <source xml:lang="en">SAVE</source>
+        <target xml:lang="el-EL">Σώσε</target>
+      </trans-unit>
+      <trans-unit id="accountdtlsite">
+        <source xml:lang="en">Site</source>
+        <target xml:lang="el-EL">Σημείο</target>
+      </trans-unit>
+      <trans-unit id="addnewastactdetails">
+        <source xml:lang="en">Account Details</source>
+        <target xml:lang="el-EL">Λεπτομέρειες λογαριασμού</target>
+      </trans-unit>
+      <trans-unit id="addnewastaddnewast">
+        <source xml:lang="en">Add New Asset</source>
+        <target xml:lang="el-EL">Προσθήκη νέου στοιχείου</target>
+      </trans-unit>
+      <trans-unit id="addnewastalarmtrs">
+        <source xml:lang="en">Alarm Thresholds</source>
+        <target xml:lang="el-EL">Όρια ειδοποίησης</target>
+      </trans-unit>
+      <trans-unit id="addnewastdishwasher">
+        <source xml:lang="en">Dishwasher</source>
+        <target xml:lang="el-EL">Πλυντήριο πιάτων</target>
+      </trans-unit>
+      <trans-unit id="addnewastdishwasherspect">
+        <source xml:lang="en">DishWasher Specs</source>
+        <target xml:lang="el-EL">Προδιαγραφές πλυντηρίου</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

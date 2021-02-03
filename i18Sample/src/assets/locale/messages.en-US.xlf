@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="ng2.template" datatype="plaintext" source-language="en" target-language="en-US">
+    <body>
+      <trans-unit id="accountdetailsave">
+        <source xml:lang="en">Next</source>
+        <target xml:lang="en-US">Next</target>
+      </trans-unit>
+      <trans-unit id="accountdtlsite">
+        <source xml:lang="en">Site</source>
+        <target xml:lang="en-US">Site</target>
+      </trans-unit>
+      <trans-unit id="addnewastactdetails">
+        <source xml:lang="en">Step 1 - Account Details</source>
+        <target xml:lang="en-US">Step 1 - Account Details</target>
+      </trans-unit>
+      <trans-unit id="addnewastaddnewast">
+        <source xml:lang="en">Add New Asset</source>
+        <target xml:lang="en-US">Add New Asset</target>
+      </trans-unit>
+      <trans-unit id="addnewastalarmtrs">
+        <source xml:lang="en">Step 6 - Alarm Thresholds</source>
+        <target xml:lang="en-US">Step 6 - Alarm Thresholds</target>
+      </trans-unit>
+      <trans-unit id="addnewastdishwasher">
+        <source xml:lang="en">Step 2 - Dishwasher</source>
+        <target xml:lang="en-US">Step 2 - Dishwasher</target>
+      </trans-unit>
+      <trans-unit id="addnewastdishwasherspect">
+        <source xml:lang="en">Step 3 - DishWasher Specs</source>
+        <target xml:lang="en-US">Step 3 - DishWasher Specs</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
